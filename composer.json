@@ -1,0 +1,16 @@
+{
+    "name": "wajox/phpmyconsole",
+    "type": "script",
+    "description": "MySQL web-console php-script",
+    "keywords": ["mysql", "php"],
+    "homepage": "https://github.com/ildarusmanov/phpmyconsole",
+    "authors": [
+        {
+            "name": "Ildar Usmanov",
+            "email": "wajox@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {},
+    "extra": {}
+}
